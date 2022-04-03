@@ -1,4 +1,5 @@
 <!--https://github.com/antonkomarev/github-profile-views-counter#readme-->
+<!-- https://github.com/anuraghazra/github-readme-stats#customization -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JalzDeLezZ&label=Profile%20views&color=0e75b6&style=flat" alt="JalzDeLezZ" /> </p>
 
 ### Hola, Soy James 👋
@@ -6,7 +7,7 @@
  
 <div align="center">
   <a href="https://github.com/JalzDeLezZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JalzDeLezZ&show_icons=true&theme=github_dark &include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JalzDeLezZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalzDeLezZ&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
