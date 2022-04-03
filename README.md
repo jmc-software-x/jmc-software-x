@@ -16,22 +16,9 @@ Here are some ideas to get you started:
 ==============================================================================================================
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codaya007&label=Profile%20views&color=0e75b6&style=flat" alt="Codaya007" /> </p>
 
-### Hola, Soy Viviana 👋 :ecuador:
-#### Full Stack Developer && Estudiante de Ingeniería en Ciencias de la Computación
-<!--
-**Codaya007/Codaya007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hola, Soy James 👋 🇵🇪
+#### Ingeniero de Informática y de Sistemas && Full Stack Developer 
+ 
 <div align="center">
   <a href="https://github.com/Codaya007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codaya007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -40,7 +27,7 @@ Here are some ideas to get you started:
 
   ## Sobre mí
 <p>
- Soy Viviana y soy Full Stack Developer con orientación al backend. Fiel creyente de que la mentalidad abierta :brain: es la cualidad más importante de las personas. Amo la música, las mascotas, la luna, el color rosa, los memes y programar. :sparkling_heart: :sparkles:
+ Soy James y soy Full Stack Developer con orientación al frontend. Fiel creyente de que la mentalidad abierta :brain: es la cualidad más importante de las personas. Amo la música, las mascotas, la luna, el color rosa, los memes y programar. :sparkling_heart: :sparkles:
 <br><br>
 Descubrí la programación cuando estuve cursando Ingeniería electromecánica y me encantó, por lo que decidí cambiarme de carrera. Actualmente estoy en el segundo ciclo de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja y a la par estoy finalizando el Bootcamp de Desarrollo web Fullstack de Henry. Ha sido una locura todo lo que he aprendido en relativamente poco tiempo! Cada decisión que he tomado desde que decidí enfocarme en mi carrera profesional ha sido una experiencia muy enriquecedora, no he parado de crecer y cada día me siento más cerca de ser la persona en la que deseaba convertirme.
 <br><br>
@@ -98,6 +85,6 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
 
   ## Contacto
 <div> 
- <a href="https://www.linkedin.com/in/viviana-calva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="www.linkedin.com/in/james-jalz-delezz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vivicalvat007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
