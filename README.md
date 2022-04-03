@@ -1,7 +1,7 @@
-
+<!--https://github.com/antonkomarev/github-profile-views-counter#readme-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JalzDeLezZ&label=Profile%20views&color=0e75b6&style=flat" alt="JalzDeLezZ" /> </p>
 
-### Hola, Soy James 👋 🇵🇪
+### Hola, Soy James 👋
 #### Ingeniero de Informática y de Sistemas && Full Stack Developer 
  
 <div align="center">
@@ -64,12 +64,12 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
         </li>
        <ul/>
        <p>Las tecnologías usadas son: MongoDB, Express, React y Node. js (MERN stack)</p>
-       <a href="https://www.youtube.com/watch?v=YwTNu3_ihOc&t=922s">Video explicativo</a>
+       <a href="#!">Video explicativo</a>
   </li>
 </ul>  
 
   ## Contacto
 <div> 
  <a href="www.linkedin.com/in/james-jalz-delezz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vivicalvat007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:j4mes.delez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
