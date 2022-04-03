@@ -32,7 +32,7 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
   <img align="center" alt="Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/338224_W75fxs8a.png">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="#">
 </div>
   
   ## Proyectos
@@ -70,6 +70,6 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
 
   ## Contacto
 <div> 
- <a href="https://www.linkedin.com/in/james-jalz-delezz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/james-jalz-delezz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:j4mes.delez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
