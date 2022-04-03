@@ -73,6 +73,7 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
 
  <a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
 <div> 
+ [go](https://google.com){:target="_blank" rel="noopener"}
  <a 
     href="https://www.linkedin.com/in/james-jalz-delezz" 
     target="_blank">
