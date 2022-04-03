@@ -71,9 +71,13 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
 
   ## Contacto
 
- <a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
-<div> 
- [go](https://google.com){:target="_blank" rel="noopener"}
+   Live Demo: [demo](https://example.com){:target="_blank"} //kramdown
+
+Live Demo: [demo](https://example.com){target="_blank"} //markdown
+
+Live Demo: <a href="https://example.com" target="_blank">demo</a> //html
+   
+ <div>  
  <a 
     href="https://www.linkedin.com/in/james-jalz-delezz" 
     target="_blank">
