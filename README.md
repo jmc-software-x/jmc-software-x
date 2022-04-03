@@ -70,11 +70,7 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
 </ul>  
 
   ## Contacto
-[Google](https://google.com" target="_blank)
-
-[Go to this page](https://google.com/?target=_blank)
-
-
+   
  <div>  
  <a 
     href="https://www.linkedin.com/in/james-jalz-delezz" 
