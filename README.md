@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codaya007&label=Profile%20views&color=0e75b6&style=flat" alt="Codaya007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codaya007&label=Profile%20views&color=0e75b6&style=flat" alt="JalzDeLezZ" /> </p>
 
 ### Hola, Soy James 👋 🇵🇪
 #### Ingeniero de Informática y de Sistemas && Full Stack Developer 
