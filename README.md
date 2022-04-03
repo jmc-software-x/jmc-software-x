@@ -70,6 +70,8 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
 </ul>  
 
   ## Contacto
+
+ <a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
 <div> 
  <a 
     href="https://www.linkedin.com/in/james-jalz-delezz" 
