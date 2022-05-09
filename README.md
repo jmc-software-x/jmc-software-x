@@ -11,15 +11,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalzDeLezZ&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-  ## Sobre mí
+  ## Un Pedacito Mí
 <p>
- Soy James y soy Full Stack Developer con orientación al frontend. Fiel creyente de que la mentalidad abierta :brain: es la cualidad más importante de las personas. Amo la música, las mascotas, la luna, el color rosa, los memes y programar. :sparkling_heart: :sparkles:
-<br><br>
-Descubrí la programación cuando estuve cursando Ingeniería electromecánica y me encantó, por lo que decidí cambiarme de carrera. Actualmente estoy en el segundo ciclo de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja y a la par estoy finalizando el Bootcamp de Desarrollo web Fullstack de Henry. Ha sido una locura todo lo que he aprendido en relativamente poco tiempo! Cada decisión que he tomado desde que decidí enfocarme en mi carrera profesional ha sido una experiencia muy enriquecedora, no he parado de crecer y cada día me siento más cerca de ser la persona en la que deseaba convertirme.
-<br><br>
-Considero que el trabajo en equipo es especialmente importante en el desarrollo de software por la rapidez y cantidad de cambios que se dan y es esta una de mis principales habilidades ya que disfruto compartiendo conocimientos con mis compañeros y resolviendo sus dudas, pues además es una buena forma de reforzar los conocimientos propios y explorar diferentes perspectivas.
-<br><br>
-Gracias a mi formación especializada, considero que estoy lista para formar parte de una empresa que coincida con mis valores y expectativas en la que pueda aportar valor y seguir desarrollándome profesionalmente a la par de continuar mis estudios universitarios.
+ Jajja no sabría como describirme en un corto texto...
+
+Soy un libro de muchas hojas, tengo capitulos amargos, alegres, algunos romanticos, otros tristes, unos de riesgos extremos, unos de momentos dificiles, de crisis, de abundancia, de logros, otros de momentos locos y divertidos, tratando de vivir la vida al máximo...
+
+Pero en mi portada podría decir que, me encanta viajar, tocar musicas tristes en el piano, celebrar con mis amig@s en las discotecas despues de cada logro, siempre me junto con aguilas y donde me encuentre siempre estár entre los mejores, siempre trato de crecer personal mente, y ayudar a los demas a crecer...
+
+Mi enfoque actual es el desarrollo de aplicaciones, Web & Mobile con cualidades Full Stack & DevOps, otras de mis paciones es el sector financiero, gestiones de proyectos, real state y data science...
+
+Mis siguientes metas es aprender a Surfear, aprender Parkour y Paracaidismo todos ellos de manera profesional, Amo a todos los animales menos a las arañas jajja, amo la Pizza acompañado de un buen vino Tinto, me encanta el color Celeste del Mar, del Cielo o del Invierno...
+
+
 </p>
 
   ## Tecnologías
@@ -37,37 +41,7 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
 </div>
   
   ## Proyectos
-<ul> 
-  <li>
-    <a href = "https://countries-app-v2.vercel.app">CountriesApp</a> 
-    <p>
-      Proyecto Individual desarrollado para el Bootcamp de Desarollo web Fullstack, se trata de un Single Page Application con la temática de Countries.<br>
-      Se han implementado funcionalidades de filtrado, búsqueda, ordenamiento y creación de actividades.
-    </p>
-  </li>
-  <li>
-    <a href = "https://ecommerce-minimarket-yerik.vercel.app">Ecommerce Yerick</a>
-    <p>
-      Proyecto Final desarrollado para la asignatura de Programación Orientada a Objetos del segundo ciclo de Ingeniería en Ciencias de la Computación, se trata de un Single Page Application que me permite la gestión de una tienda de comestibles. Ha sido elaborada en pares junto con <a href = "https://github.com/AlekZ11">AlekZ11</a> y tiene las siguientes funcionalidades:<br>
-      </p>
-      <ul>
-        <li>
-          <h5>Usuario no registrado<h5/> 
-          <p>Ver todos los productos, filtrarlos por categoría, ordenarlos por nombre o precio de forma ascendente o descendente. Añadir productos al carrito, loguearse o registrarse en la tienda</p>
-        </li>
-        <li>
-          <h5>Usuario registrado:<h5/> 
-          <p>Adicional a las funcionalidades del usuario no registrado, puede realizar pedidos, realizar pagos con targeta de crédito, ver los datos de su perfil y todas las compras realizadas y eliminar pedidos.</p>
-        </li>
-        <li>
-          <h5>Usuario administrador:<h5/> 
-          <p>El administrador tiene tres paginas extras, una es para gestionar los productos y categorias, permitiendole crear un a nueva categoría, editarla o eliminarla. Añadir nuevos productos, eliminar o editar productos. La siguiente página es el de gestión de las ventas, en la cual puede ver todos los pedidos que se han realizado, cambiar el estatus de pendiente a entregado cuando esta haya sido enviado y eliminar un pedido que no ha sido pagado. Finalmente una página para administrar los usuarios, pudiendo ver todos los usuarios registrados en la aplicación y bloquearlos o desbloquearlos en caso de ser necesario.</p>
-        </li>
-       <ul/>
-       <p>Las tecnologías usadas son: MongoDB, Express, React y Node. js (MERN stack)</p>
-       <a href="#!">Video explicativo</a>
-  </li>
-</ul>  
+ <h3>Loading ...</h3>
 
   ## Contacto
    
