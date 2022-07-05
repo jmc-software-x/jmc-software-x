@@ -63,3 +63,8 @@
   <h2> Projects </h2>
  <h3>Loading ...</h3>
 
+
+
+
+# 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JalzDeLezZM3&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
