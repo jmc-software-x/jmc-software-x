@@ -14,7 +14,7 @@
   <br/>
 
   <details>
-  <summary><h2> A little bit about me </h2></summary>
+  <summary><h2> A little bit about me 😎 </h2></summary>
   <p>Haha I wouldn't know how to describe myself in a short text...
 
   I am a book of many pages, I have bitter, happy chapters, some romantic, others sad, some of extreme risks, some of difficult moments, of crisis, of abundance, of achievements, others of crazy and fun moments, like any person who lives life to the fullest...
@@ -31,7 +31,7 @@
   <img src="https://i.ibb.co/dDrhRG4/gifntext-gif.gif" width="50%" align="right"/>
 
 <br/>
-<h2> 🛠️ Technologies</h2>
+<h2> Technologies 🛠️ </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -60,8 +60,12 @@
 </div>
 
 <br/>
-<h2> Projects </h2>
-<h4>Loading ...</h4>
+<h2> My projects ⬇️ </h2>
+<h3>VideoGame App</h3>
+<a href='https://github.com/JalzDeLezZ/VIDEO-GAMES---JALZ'>Code</a>
+
+<h3>Servi Express</h3>
+<a href='https://github.com/camiFK/ProyectoGrupal'>Code</a>
 
 <br/>
 <h2> 🏆 GitHub Trophies </h2>
