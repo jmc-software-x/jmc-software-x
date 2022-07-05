@@ -4,15 +4,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?duration=5000&center=true&multiline=true&lines=Informatic+and+Systems+Engineer;Full+Stack+Developer+and+DevOps" style="width: 100%;">
 
 <br/>
+
 <div align="center">
   <a href="https://github.com/JalzDeLezZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JalzDeLezZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalzDeLezZ&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-<br/>
 
-  <details><summary><h2> A little bit about me </h2></summary>
-    <p>Haha I wouldn't know how to describe myself in a short text...
+  <br/>
+
+  <details>
+  <summary><h2> A little bit about me </h2></summary>
+  <p>Haha I wouldn't know how to describe myself in a short text...
 
   I am a book of many pages, I have bitter, happy chapters, some romantic, others sad, some of extreme risks, some of difficult moments, of crisis, of abundance, of achievements, others of crazy and fun moments, like any person who lives life to the fullest...
 
@@ -24,10 +27,8 @@
   My next goals are to learn to Surf, learn Parkour and Skydiving all of them professionally, I love all animals except spiders hahaha, I love Pizza and a good Red wine, and the Celestia        l color of the Sea, the Sky or Winter ...
   </p>
   </details>
-  </div>
 
   <img src="https://i.ibb.co/dDrhRG4/gifntext-gif.gif" width="50%" align="right"/>
-</section>
 
 <br/>
 <h2> 🛠️ Technologies</h2>
@@ -45,13 +46,12 @@
   
 <br/>
 <h2>Contacts</h2>
-   
  <div>  
- <a 
-    href="https://www.linkedin.com/in/james-jalz-delezz" 
-    target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
- </a>
+  <a 
+      href="https://www.linkedin.com/in/james-jalz-delezz" 
+      target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
   <a 
      href = "mailto:j4mes.delez@gmail.com" 
      target="_blank">
@@ -59,12 +59,10 @@
  </a>
 </div>
 
-  <br/>
-  <h2> Projects </h2>
- <h3>Loading ...</h3>
+<br/>
+<h2> Projects </h2>
+<h4>Loading ...</h4>
 
-
-
-
-# 🏆GitHub Trophies
+<br/>
+<h2> 🏆 GitHub Trophies </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=JalzDeLezZ&theme=algolia" align="center"/>
