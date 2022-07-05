@@ -69,4 +69,4 @@
 
 <br/>
 <h2> 🏆 GitHub Trophies </h2>
-<img src="https://github-profile-trophy.vercel.app/?username=JalzDeLezZ&theme=algolia" align="center"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JalzDeLezZ&theme=algolia" align="center" style="width: 100%;"/>
