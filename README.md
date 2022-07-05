@@ -67,4 +67,4 @@
 
 
 # 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JalzDeLezZM3&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" align="center"/>
