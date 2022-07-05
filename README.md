@@ -30,7 +30,6 @@
 </section>
 
 <br/>
-<br/>
 <h2> 🛠️ Technologies</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,7 +43,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-<br/>
 <br/>
 <h2>Contacts</h2>
    
@@ -61,7 +59,6 @@
  </a>
 </div>
 
-  <br/>
   <br/>
   <h2> Projects </h2>
  <h3>Loading ...</h3>
