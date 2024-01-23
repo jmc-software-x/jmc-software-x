@@ -48,12 +48,12 @@
 <h2>Contacts</h2>
  <div>  
   <a 
-      href="https://www.linkedin.com/in/james-jalz-delezz" 
+      href="j4mes-mclaren" 
       target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
   <a 
-     href = "mailto:j4mes.delez@gmail.com" 
+     href = "mailto:j4mes.mclaren@icloud.com" 
      target="_blank">
      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
  </a>
