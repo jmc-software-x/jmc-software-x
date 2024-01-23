@@ -48,7 +48,7 @@
 <h2>Contacts</h2>
  <div>  
   <a 
-      href="j4mes-mclaren" 
+      href="https://www.linkedin.com/in/j4mes-mclaren/" 
       target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
