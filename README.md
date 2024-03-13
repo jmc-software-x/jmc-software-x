@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JalzDeLezZ&label=Profile%20views&color=0e75b6&style=flat" alt="JalzDeLezZ" /> </p>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=5000&center=true&multiline=true&lines=Informatic+and+Systems+Engineer;Full+Stack+Developer+and+DevOps" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?duration=5000&center=true&multiline=true&lines=Informatic+and+Systems+Engineer;Mobile+Developer+" style="width: 100%;">
 
 <br/>
 
@@ -17,14 +17,9 @@
   <summary><h2> A little bit about me 😎 </h2></summary>
   <p>Haha I wouldn't know how to describe myself in a short text...
 
-  I am a book of many pages, I have bitter, happy chapters, some romantic, others sad, some of extreme risks, some of difficult moments, of crisis, of abundance, of achievements, others of crazy and fun moments, like any person who lives life to the fullest...
+  I love to travel, play sad music on the piano, celebrate with my friends in clubs after each achievement, I always join with eagles and wherever I am, always be among the best, I always try to grow personally mind, and help others to grow...
 
-  But on my cover I could say that I love to travel, play sad music on the piano, celebrate with my friends in clubs after each achievement, I always join with eagles and wherever I am, always be among the best, I always try to grow personally mind, and help others to grow...
-
-  My current focus is the development of applications, Web & Mobile with Full Stack & DevOps qualities, other of my passions are the financial sector, project management, real state and data science...
-
-  A little bit more of me:
-  My next goals are to learn to Surf, learn Parkour and Skydiving all of them professionally, I love all animals except spiders hahaha, I love Pizza and a good Red wine, and the Celestia        l color of the Sea, the Sky or Winter ...
+  My next goals are to learn to Surf, learn Parkour and Skydiving all of them professionally, I love all animals except spiders hahaha, I love Pizza and a good Red wine, and the sky blue color of the Sea, the Sky or Winter ...
   </p>
   </details>
 
