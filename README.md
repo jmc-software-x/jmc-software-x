@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JalzDeLezZ&label=Profile%20views&color=0e75b6&style=flat" alt="JalzDeLezZ" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmc-software-x&label=Profile%20views&color=0e75b6&style=flat" alt="jmc-software-x" /> </p>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?duration=5000&center=true&multiline=true&lines=Informatic+and+Systems+Engineer;Mobile+Developer+" style="width: 100%;">
@@ -6,9 +6,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/JalzDeLezZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JalzDeLezZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalzDeLezZ&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/jmc-software-x">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmc-software-x&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmc-software-x&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
   <br/>
@@ -16,10 +16,6 @@
   <details>
   <summary><h2> A little bit about me 😎 </h2></summary>
   <p>Haha I wouldn't know how to describe myself in a short text...
-
-  I love to travel, play sad music on the piano, celebrate with my friends in clubs after each achievement, I always join with eagles and wherever I am, always be among the best, I always try to grow personally mind, and help others to grow...
-
-  My next goals are to learn to Surf, learn Parkour and Skydiving all of them professionally, I love all animals except spiders hahaha, I love Pizza and a good Red wine, and the sky blue color of the Sea, the Sky or Winter ...
   </p>
   </details>
 
@@ -55,13 +51,9 @@
 </div>
 
 <br/>
-<h2> My projects ⬇️ </h2>
-<h3>VideoGame App</h3>
-<a href='https://github.com/JalzDeLezZ/VIDEO-GAMES---JALZ'>Code</a>
-
-<h3>Servi Express</h3>
-<a href='https://github.com/camiFK/ProyectoGrupal'>Code</a>
+<h2> Check out my projects ⬇️ </h2>
+<a href='https://github.com/jmc-software-x/VIDEO-GAMES---JALZ'>(°°)/</a>
 
 <br/>
 <h2> 🏆 GitHub Trophies </h2>
-<img src="https://github-profile-trophy.vercel.app/?username=JalzDeLezZ&theme=algolia" align="center" style="width: 100%;"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jmc-software-x&theme=algolia" align="center" style="width: 100%;"/>
