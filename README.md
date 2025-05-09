@@ -52,7 +52,7 @@
 
 <br/>
 <h2> Check out my projects ⬇️ </h2>
-<a href='https://github.com/jmc-software-x/VIDEO-GAMES---JALZ'>(°°)/</a>
+<a href='https://github.com/jmc-software-x?tab=repositories'>(°°)/</a>
 
 <br/>
 <h2> 🏆 GitHub Trophies </h2>
