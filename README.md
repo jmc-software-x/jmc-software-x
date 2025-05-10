@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmc-software-x&label=Profile%20views&color=0e75b6&style=flat" alt="jmc-software-x" /> </p>
 
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Development](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=49&pause=1000&width=435&lines=Software+Development)" alt="jmc-software-x" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=49&pause=1000&width=435&lines=Software+Development" alt="jmc-software-x" />
 
 <br/>
 
