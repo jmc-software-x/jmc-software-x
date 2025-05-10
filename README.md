@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmc-software-x&label=Profile%20views&color=0e75b6&style=flat" alt="jmc-software-x" /> </p>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=5000&center=true&multiline=true&lines=Software Development" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?duration=5000&center=true&multiline=true&lines=Software Development;" style="width: 100%;">
 
 <br/>
 
